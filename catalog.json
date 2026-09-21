@@ -1,0 +1,53 @@
+{
+  "welcome": "Assalomu alaykum! Kafe, restoran va nonvoyxonalar uchun uskunalar. Bo'limni tanlang:",
+  "categories": [
+    {
+      "id": "pech",
+      "name": "🔥 Pechlar",
+      "products": [
+        {
+          "id": "p1",
+          "name": "Namuna: Non pishirish pechi",
+          "price": "Narx uchun so'rov qoldiring",
+          "info": "Bu namuna. Haqiqiy mahsulot nomi, xususiyatlari va narxini shu yerga yozing."
+        }
+      ]
+    },
+    {
+      "id": "muzqaymoq",
+      "name": "🍦 Muzqaymoq apparatlari",
+      "products": [
+        {
+          "id": "m1",
+          "name": "Namuna: Muzqaymoq apparati",
+          "price": "Narx uchun so'rov qoldiring",
+          "info": "Bu namuna. Haqiqiy ma'lumotni shu yerga yozing."
+        }
+      ]
+    },
+    {
+      "id": "xamir",
+      "name": "🥖 Xamir va aralashtirgichlar",
+      "products": [
+        {
+          "id": "x1",
+          "name": "Namuna: Xamir qorish mashinasi",
+          "price": "Narx uchun so'rov qoldiring",
+          "info": "Bu namuna. Haqiqiy ma'lumotni shu yerga yozing."
+        }
+      ]
+    },
+    {
+      "id": "blender",
+      "name": "🥤 Blender va bar jihozlari",
+      "products": [
+        {
+          "id": "b1",
+          "name": "Namuna: Professional blender",
+          "price": "Narx uchun so'rov qoldiring",
+          "info": "Bu namuna. Haqiqiy ma'lumotni shu yerga yozing."
+        }
+      ]
+    }
+  ]
+}
