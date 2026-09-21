@@ -1,0 +1,101 @@
+{
+  "welcome": "Assalomu alaykum! Kafe, restoran va nonvoyxonalar uchun uskunalar. Bo'limni tanlang:",
+  "categories": [
+    {
+      "id": "pech",
+      "name": "🔥 Pechlar",
+      "products": [
+        {
+          "id": "p1",
+          "name": "Печь шунмай 6л",
+          "price": "13 300 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 13300000
+        },
+        {
+          "id": "p2",
+          "name": "Печь шунмай 1л",
+          "price": "2 950 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 2950000
+        },
+        {
+          "id": "p3",
+          "name": "Конвекционный печь 10л ток",
+          "price": "32 250 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 32250000
+        },
+        {
+          "id": "p4",
+          "name": "Печь соустар 4л",
+          "price": "16 500 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 16500000
+        },
+        {
+          "id": "p5",
+          "name": "Пицца печь МН-1S",
+          "price": "3 150 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 3150000
+        },
+        {
+          "id": "p6",
+          "name": "Пицца печь МН-2S",
+          "price": "Narx uchun so'rov qoldiring",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 0
+        }
+      ]
+    },
+    {
+      "id": "xamir",
+      "name": "🥖 Тестомес (xamir qorish)",
+      "products": [
+        {
+          "id": "x1",
+          "name": "Тестомес хенгуе 20л",
+          "price": "7 900 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 7900000
+        },
+        {
+          "id": "x2",
+          "name": "Тестомес хенгуе 30л",
+          "price": "8 350 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 8350000
+        },
+        {
+          "id": "x3",
+          "name": "Тестомес хенгуе 60л 380в",
+          "price": "16 050 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 16050000
+        },
+        {
+          "id": "x4",
+          "name": "Тестомес китай 20л",
+          "price": "8 900 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 8900000
+        },
+        {
+          "id": "x5",
+          "name": "Тестомес промач 35кг",
+          "price": "10 750 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 10750000
+        },
+        {
+          "id": "x6",
+          "name": "Тестомес чагдаш 25кг",
+          "price": "9 600 000 so'm",
+          "info": "Batafsil ma'lumot va buyurtma uchun so'rov qoldiring.",
+          "price_num": 9600000
+        }
+      ]
+    }
+  ]
+}
